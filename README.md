@@ -18,4 +18,4 @@ Dowload all files in directory and run the file RUNME.exe, a window will open an
 * Shader.cpp
   * This file contains all the logic of shaders and allows them to be loaded from specific files.
 * tiny_obj_loader.cpp
-  * This file handles loading objects into the environment from verticies.
+  * This file handles loading objects into the environment from vertex data.
