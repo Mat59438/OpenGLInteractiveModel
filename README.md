@@ -12,7 +12,7 @@ Dowload all files in directory and run the file RUNME.exe, a window will open an
 
 ## Main project files are:
 * main.cpp
-  * This file initalizes the window, and shader. It responds to keyboard input listed in [Controls](#Controls). Additionally, it reshapes the viewport if the window is resized.
+  * This file initalizes the window, and shader. It responds to keyboard input listed in [Controls](#controls). Additionally, it reshapes the viewport if the window is resized.
 * Model.cpp
   * This file contains the class of Model and how it is rendered and updated.
 * Shader.cpp
