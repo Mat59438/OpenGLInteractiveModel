@@ -1,6 +1,6 @@
 # OpenGLTestModel
 ## How to Run:
-Dowload all files in directory and run the file TestGLProj.exe, a window will open and the program will be playable.
+Dowload all files in directory and run the file RUNME.exe, a window will open and the program will be playable.
 ### Controls:
 * WASD - used for movement
 * C - changes perspective between static third person and dynamic first person
