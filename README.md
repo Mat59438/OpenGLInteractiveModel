@@ -1,4 +1,4 @@
-# OpenGLTestModel
+# OpenGLInteractiveModel
 ## Project Description:
 This program utilizes OpenGL to create a 3d model that is controllable by the user. Once in first person mode, the user can see objects in the environment. Additionally, in first person mode the camera follows the model, in both movement and rotation.
 ## How to Run:
